@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HuseyinAtak
 - 👀 I’m interested in Frontend.
-- 🌱 I’m currently learning Angular and React
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on Frontend
 - 📫 How to reach me .
 - My Linkedin profil is;
