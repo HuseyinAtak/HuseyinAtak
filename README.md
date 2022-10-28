@@ -7,7 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Frontend Developer**
 
-- 💬 Ask me about **Javascript, Css**
 
 - 📫 **huseyin.atak@outlook.com.tr**
 
