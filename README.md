@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Javascript, Css**
 
-- 📫 How to reach me **huseyin.atak@outlook.com.tr**
+- 📫 **huseyin.atak@outlook.com.tr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
